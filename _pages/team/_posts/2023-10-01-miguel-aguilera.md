@@ -13,8 +13,10 @@ social:
     website:
     orcid: https://orcid.org/
     research-gate: https://www.researchgate.net/
-education:
- - Education
+<!--education:-->
+<!-- - Education-->
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+     
+My research line is guided by the ambition of using methods from different branches of complex systems research and related areas (statistical mechanics, information theory, machine learning and nonlinear dynamics) to study the closed-loop ongoing interaction of intelligent agents with their environments. I work with methods from nonequilibrium physics to study neural systems in interaction with their environment as open, nonequilibrium systems, which often challenge mathematical and modelling methods assuming linearity or asymptotic equilibrium. My goal is to apply such methods to address open problems and theoretical challenges related to leading theories in neuroscience and as well as  broader research perspectives on life and mind.
+
