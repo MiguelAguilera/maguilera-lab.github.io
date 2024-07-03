@@ -1,6 +1,6 @@
 ---
 layout: member
-category: student
+category: researcher
 title: Researcher Name
 image: researcher.png
 role: PhD Student
