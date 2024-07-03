@@ -2,8 +2,8 @@
 layout: member
 category: staff
 title: Miguel Aguilera
-image: researcher.png
-role: Lab Director
+image: maguilera.png
+role: Group leader
 permalink: 'team/researcher-name'
 social:
     twitter: https://twitter.com/
