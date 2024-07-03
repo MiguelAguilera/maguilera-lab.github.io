@@ -4,7 +4,7 @@ category: staff
 title: Miguel Aguilera
 image: maguilera.png
 role: Group leader
-permalink: 'team/researcher-name'
+permalink: 'team/miguel-aguilera'
 social:
     twitter: https://twitter.com/
     linkedin: https://www.linkedin.com/
