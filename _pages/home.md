@@ -1,7 +1,7 @@
 ---
 title: "Home"
 layout: homelay
-excerpt: "RT2 Lab at Institut Curie"
+excerpt: "Miguel Aguilera's group at BCAM"
 sitemap: false
 permalink: /
 ---
