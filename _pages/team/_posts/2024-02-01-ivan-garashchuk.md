@@ -3,7 +3,7 @@ layout: member
 category: staff
 title: Ivan Garashchuk
 image: researcher.png
-role: Postdoc Researcher
+role: Postdoc Fellow
 permalink: 'team/ivan-garashchuk'
 social:
     twitter: https://twitter.com/
@@ -11,7 +11,7 @@ social:
     google-scholar: https://scholar.google.fr/
     github: https://github.com/
     website:
-    orcid: https://orcid.org/
+    orcid: https://www.orcid.org/0000-0002-3936-670X
     research-gate: https://www.researchgate.net/
 education:
  - Education
