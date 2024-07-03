@@ -10,7 +10,8 @@
     <div class="container-fluid">
       <div class="col-sm-12">
         <div class="row">
-          {{ content }}
+<!--          {{ content }}-->
+          {{.content | markdownify }}
         </div>
       </div>
     </div>
