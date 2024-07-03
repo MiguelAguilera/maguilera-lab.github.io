@@ -24,6 +24,10 @@ layout: default
 
         <!-- Social -->
         <ul class="list-inline list-unstyled">
+            <!-- Personal Website -->
+            {% if page.social.website %}
+                <li><a target="blank" href="{{page.social.website}}"><i class="fas fa-globe"></i></a></li>
+            {% endif %}
             <!-- Google Scholar -->
             {% if page.social.google-scholar %}
                 <li><a target="blank" href="{{page.social.google-scholar}}"><i class="fab fa-google"></i></a></li>
@@ -43,10 +47,6 @@ layout: default
             <!-- Github -->
             {% if page.social.github %}
                 <li><a target="blank" href="{{page.social.github}}"><i class="fab fa-github"></i></a></li>
-            {% endif %}
-            <!-- Personal Website -->
-            {% if page.social.website %}
-                <li><a target="blank" href="{{page.social.website}}"><i class="fas fa-globe"></i></a></li>
             {% endif %}
             <!-- Research Gate -->
             {% if page.social.research-gate %}
