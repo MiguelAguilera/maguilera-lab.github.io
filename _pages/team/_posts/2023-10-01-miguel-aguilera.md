@@ -6,13 +6,13 @@ image: maguilera.png
 role: Ikerbasque Research Fellow
 permalink: 'team/miguel-aguilera'
 social:
-    twitter: https://twitter.com/
-    linkedin: https://www.linkedin.com/
-    google-scholar: https://scholar.google.fr/
-    github: https://github.com/
-    website:
-    orcid: https://orcid.org/
-    research-gate: https://www.researchgate.net/
+    website: https://maguilera.net/
+    google-scholar: https://scholar.google.com/citations?user=HJHkCmEofCgC
+    twitter: https://twitter.com/m_aguilera_
+    orcid: https://orcid.org/0000-0002-3366-4706
+<!--    linkedin: https://www.linkedin.com/-->
+    github: https://github.com/MiguelAguilera
+    research-gate: https://www.researchgate.net/profile/Miguel-Aguilera-2
 education:
  - Education
 ---
