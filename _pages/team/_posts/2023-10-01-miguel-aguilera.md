@@ -3,7 +3,7 @@ layout: member
 category: staff
 title: Miguel Aguilera
 image: maguilera.png
-role: Group leader
+role: Ikerbasque Research Fellow
 permalink: 'team/miguel-aguilera'
 social:
     twitter: https://twitter.com/
