@@ -6,13 +6,13 @@ image: researcher.png
 role: PhD Candidate
 permalink: 'team/raul-coterillo'
 social:
-    twitter: https://twitter.com/
-    linkedin: https://www.orcid.org/0000-0001-7567-3646
-    google-scholar: https://scholar.google.fr/
-    github: https://github.com/
+    twitter:
+    linkedin: https://www.linkedin.com/in/raul-coterillo/
+    google-scholar:
+    github:
     website:
     orcid: https://www.orcid.org/0000-0001-7567-3646
-    research-gate: https://www.researchgate.net/
+    research-gate:
 education:
  - Education
 ---
