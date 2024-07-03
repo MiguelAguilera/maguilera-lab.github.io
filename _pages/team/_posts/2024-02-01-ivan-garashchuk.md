@@ -1,9 +1,9 @@
 ---
 layout: member
-category: researcher
+category: staff
 title: Ivan Garashchuk
 image: researcher.png
-role: PhD Candidate
+role: Postdoc Researcher
 permalink: 'team/ivan-garashchuk'
 social:
     twitter: https://twitter.com/
