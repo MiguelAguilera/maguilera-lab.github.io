@@ -1,10 +1,10 @@
 ---
 layout: member
 category: researcher
-title: Ángel Poc-López
+title: Ivan Garashchuk
 image: researcher.png
 role: PhD Candidate
-permalink: 'team/angel-poc-lopez'
+permalink: 'team/ivan-garashchuk'
 social:
     twitter: https://twitter.com/
     linkedin: https://www.linkedin.com/

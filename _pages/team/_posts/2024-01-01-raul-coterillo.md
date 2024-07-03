@@ -1,10 +1,10 @@
 ---
 layout: member
 category: researcher
-title: Ángel Poc-López
+title: Raúl Coterillo
 image: researcher.png
 role: PhD Candidate
-permalink: 'team/angel-poc-lopez'
+permalink: 'team/raul-coterillo'
 social:
     twitter: https://twitter.com/
     linkedin: https://www.linkedin.com/
