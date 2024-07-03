@@ -1,5 +1,97 @@
 [
 	{
+		"id": "http://zotero.org/users/817369/items/8C33IDLS",
+		"type": "article-journal",
+		"abstract": "Kinetic Ising models are powerful tools for studying the non-equilibrium dynamics of complex systems. As their behavior is not tractable for large networks, many mean-field methods have been proposed for their analysis, each based on unique assumptions about the system’s temporal evolution. This disparity of approaches makes it challenging to systematically advance mean-field methods beyond previous contributions. Here, we propose a unifying framework for mean-field theories of asymmetric kinetic Ising systems from an information geometry perspective. The framework is built on Plefka expansions of a system around a simplified model obtained by an orthogonal projection to a sub-manifold of tractable probability distributions. This view not only unifies previous methods but also allows us to develop novel methods that, in contrast with traditional approaches, preserve the system’s correlations. We show that these new methods can outperform previous ones in predicting and assessing network properties near maximally fluctuating regimes.",
+		"container-title": "Nature Communications",
+		"DOI": "10.1038/s41467-021-20890-5",
+		"ISSN": "2041-1723",
+		"issue": "1",
+		"journalAbbreviation": "Nat Commun",
+		"language": "en",
+		"license": "2021 The Author(s)",
+		"note": "Bandiera_abtest: a\nCc_license_type: cc_by\nCg_type: Nature Research Journals\nnumber: 1\nPrimary_atype: Research\npublisher: Nature Publishing Group\nSubject_term: Information theory and computation;Magnetic properties and materials;Statistical physics, thermodynamics and nonlinear dynamics\nSubject_term_id: information-theory-and-computation;magnetic-properties-and-materials;statistical-physics-thermodynamics-and-nonlinear-dynamics",
+		"page": "1197",
+		"source": "www.nature.com",
+		"title": "A unifying framework for mean-field theories of asymmetric kinetic Ising systems",
+		"URL": "https://www.nature.com/articles/s41467-021-20890-5",
+		"volume": "12",
+		"author": [
+			{
+				"family": "Aguilera",
+				"given": "Miguel"
+			},
+			{
+				"family": "Moosavi",
+				"given": "S. Amin"
+			},
+			{
+				"family": "Shimazaki",
+				"given": "Hideaki"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					10,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/817369/items/33AQ2MM6",
+		"type": "article-journal",
+		"abstract": "Many biological and cognitive systems do not operate deep within one or other regime of activity. Instead, they are poised at critical points located at phase transitions in their parameter space. The pervasiveness of criticality suggests that there may be general principles inducing this behaviour, yet there is no well-founded theory for understanding how criticality is generated at a wide span of levels and contexts. In order to explore how criticality might emerge from general adaptive mechanisms, we propose a simple learning rule that maintains an internal organizational structure from a specific family of systems at criticality. We implement the mechanism in artificial embodied agents controlled by a neural network maintaining a correlation structure randomly sampled from an Ising model at critical temperature. Agents are evaluated in two classical reinforcement learning scenarios: the Mountain Car and the Acrobot double pendulum. In both cases the neural controller appears to reach a point of criticality, which coincides with a transition point between two regimes of the agent’s behaviour. These results suggest that adaptation to criticality could be used as a general adaptive mechanism in some circumstances, providing an alternative explanation for the pervasive presence of criticality in biological and cognitive systems.",
+		"container-title": "Scientific Reports",
+		"DOI": "10.1038/s41598-018-25925-4",
+		"ISSN": "2045-2322",
+		"issue": "7723",
+		"license": "2018 The Author(s)",
+		"source": "www.nature.com",
+		"title": "Adaptation to criticality through organizational invariance in embodied agents",
+		"URL": "https://www.nature.com/articles/s41598-018-25925-4",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Aguilera",
+				"given": "Miguel"
+			},
+			{
+				"family": "Bedia",
+				"given": "Manuel G."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					6,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					5,
+					16
+				]
+			]
+		}
+	}
+	{
 		"id": "http://zotero.org/groups/2386072/items/NU9LTX7C",
 		"type": "article-journal",
 		"title": "Segmentation of Nuclei in Histopathology Images by Deep Regression of the Distance Map",
