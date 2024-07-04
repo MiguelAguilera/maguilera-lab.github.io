@@ -9,7 +9,7 @@ permalink: /research/
 # Research
 
 
-### Nonequilibrium neural computation
+### Nonequilibrium physics of neural computation
 
 <img class="img-fluid" src="https://lab.maguilera.net/images/research/entropy_production.png" width="260" style="padding-left: 20px" alt="entropy production neural network Ising model" align="right" />
 
