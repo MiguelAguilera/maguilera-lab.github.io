@@ -3,6 +3,7 @@ layout: member
 category: researcher
 title: Raúl Coterillo
 image: researcher.png
+image2: researcher.png
 role: PhD Candidate
 permalink: 'team/raul-coterillo'
 social:
