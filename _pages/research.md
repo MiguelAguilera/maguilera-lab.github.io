@@ -8,6 +8,12 @@ permalink: /research/
 
 # Research
 
+
+### Nonequilibrium neural computation
+
+Most systems in nature operate far from equilibrium, exhibiting time-asymmetric, irreversible dynamics; giving rise to entropy production as they exchange energy and matter with their environment. In neuroscience, effective information processing entails flexible architectures integrating multiple sensory streams that vary in time with internal and external events. Physically, neural computation is, in a thermodynamic sense, an out-of-equilibrium, non-stationary process that changes dynamically. Cognitively, nonequilibrium neural activity results in dynamic changes in sensory streams and internal states. In contrast, classical neuroscience theory focuses on stationary, equilibrium information paradigms (e.g., efficient coding theory), which often fail to describe the role of nonequilibrium fluctuations in neural processes. Inspired by the success of the equilibrium Ising model in investigating disordered systems and related associative-memory neural networks, we study the nonequilibrium statistical physics of asymmetric, disordered Ising models as a prototypical model of large-scale nonequilibrium networks. These results contribute to an exact analytical theory for studying the thermodynamic properties of large-scale nonequilibrium systems and their phase transitions. 
+
+
 ### Statistical Physics of Transformer Neural networks
 
 <img class="card-img" src="https://lab.maguilera.net/images/research/attractor_attention.png" width="260" style="padding-left: 20px" alt="mean-field dynamics attention neural network" align="right" />
