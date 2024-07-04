@@ -6,13 +6,13 @@ image: researcher.png
 role: Postdoc Fellow
 permalink: 'team/ivan-garashchuk'
 social:
-    twitter: https://twitter.com/
-    linkedin: https://www.linkedin.com/
-    google-scholar: https://scholar.google.fr/
-    github: https://github.com/
+    twitter:
+    linkedin:
+    google-scholar:
+    github:
     website:
     orcid: https://www.orcid.org/0000-0002-3936-670X
-    research-gate: https://www.researchgate.net/
+    research-gate:
 education:
  - Education
 ---
