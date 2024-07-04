@@ -8,7 +8,7 @@ permalink: /publications/
 
 ## Recent preprints
 
-1. **Poc-López** A & **Aguilera** M (2024). [Dynamical Mean-Field Theory of Self-Attention Neural Networks](https://arxiv.org/abs/2406.07247). _arxiv preprint_.\
+1. **Poc-López** A & **Aguilera** M (2024). [Dynamical Mean-Field Theory of Self-Attention Neural Networks](https://arxiv.org/abs/2406.07247). _arXiv preprint_.\
 [![DOI](https://img.shields.io/badge/DOI-10.48550/arXiv.2406.07247--y-lightgreen.svg)](https://doi.org/10.48550/arXiv.2406.07247)
 
 ## Selected publications
