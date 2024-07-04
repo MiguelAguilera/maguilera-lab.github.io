@@ -8,6 +8,9 @@ permalink: /publications/
 
 ## Selected Publications
 
+1. Poc-López A & **Aguilera** M (2024). [Dynamical Mean-Field Theory of Self-Attention Neural Networks](https://arxiv.org/abs/2406.07247). _arxiv preprint_.\
+[![DOI](https://img.shields.io/badge/DOI-10.48550/arXiv.2406.07247--y-lightgreen.svg)](https://doi.org/10.48550/arXiv.2406.07247)
+
 1. **Aguilera** M, Igarashi, M & Shimazaki, H (2023). [Nonequilibrium thermodynamics of the asymmetric Sherrington-Kirkpatrick model](https://www.nature.com/articles/s41467-023-39107-y). _Nature Communications_ **14**, 3685.\
 [![DOI](https://img.shields.io/badge/DOI-10.1038/s41467--023--39107--y-lightgreen.svg)](https://doi.org/10.1038/s41467-023-39107-y)
 
