@@ -11,7 +11,7 @@ permalink: /research/
 
 ### Nonequilibrium physics of neural computation
 
-<img class="img-fluid" src="https://lab.maguilera.net/images/research/entropy_production.png" width="260" style=" margin-left: auto" alt="entropy production neural network Ising model" align="right" />
+<img class="img-fluid" src="https://lab.maguilera.net/images/research/entropy_production.png" style="padding-left: 20px; max-width: 100px" alt="entropy production neural network Ising model" align="right" />
 
 We are interested in the nonequilibrium dynamics of neural systems, which operate far from equilibrium and exhibiting time-asymmetric, irreversible processese. Unlike classical neuroscience theories that focus on stationary, equilibrium information paradigms (e.g., efficient coding theory, associative memories), we study how neural computation involves dynamic, non-stationary processes. Using the nonequilibrium statistical physics of asymmetric, disordered Ising models as a prototypical framework, we aim to develop an exact analytical theory to understand the thermodynamic properties and phase transitions of large-scale nonequilibrium networks. This approach sheds light on the role of nonequilibrium fluctuations in effective neural information processing and their interaction with sensorimotor streams and internal states.
 
