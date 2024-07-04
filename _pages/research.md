@@ -29,7 +29,7 @@ We exploit methods from nonequilibrium statistical physics and the disordered ph
 
 ### Stochastic Thermodynamics of Autonomous Agents
 
-<img class="img-fluid" src="https://lab.maguilera.net/images/research/information_engine.png" width="260" style="padding-left: 20px" alt="information engine agent stochastic thermodynamics" align="right" />
+<img class="img-fluid" src="https://lab.maguilera.net/images/research/information-engine.png" width="260" style="padding-left: 20px" alt="information engine agent stochastic thermodynamics" align="right" />
 
 We are studiyng how to use [stochastic thermodynamics](https://en.wikipedia.org/wiki/Stochastic_thermodynamics) to formalize the capacities of [autonomous agents](https://journals.sagepub.com/doi/10.1177/1059712309343819), particularly their ability to [maintain far-from-equilibrium states](https://www.lehigh.edu/~mhb0/autfuncrep.html) by actively harvesting and storing free energy from their environments. By studying nonequilibrium steady states, we identify conditions under which agents can sustain themselves autonomously, differentiating these from states near thermodynamic equilibrium with low energy-harvesting potential. Additionally, we explore the adaptive mechanisms that allow agents to regulate their interactions with the environment, ensuring the robust maintenance of their nonequilibrium states. This work aims to deepen our understanding of how thermodynamic processes underpin the emergence and persistence of complex, adaptive behavior in natural and artificial systems.
 
