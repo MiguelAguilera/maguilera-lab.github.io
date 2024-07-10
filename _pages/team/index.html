@@ -37,7 +37,7 @@ permalink: /team/
 {% endfor %}
 
 <!-- Reserchers -->
-
+ 
 <!--<h2><a id="researcher"></a>Researchers</h2>-->
 
 {% assign members = site.posts | where: 'category', 'researcher' | sort: 'date' %}
@@ -48,7 +48,7 @@ permalink: /team/
             <a href={{member.url}}>
                 <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.image }}"
                     class="img-circle img-responsive img-thumbnail"
-                    style="filter: grayscale(100%); max-width: 100px;"/>
+                    style="max-width: 100px;"/>
             </a>
         </div>
 
