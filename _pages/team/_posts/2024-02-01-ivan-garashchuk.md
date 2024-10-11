@@ -2,7 +2,7 @@
 layout: member
 category: staff
 title: Ivan Garashchuk
-image: researcher.png
+image: ivang.png
 role: Postdoc Fellow
 permalink: 'team/ivan-garashchuk'
 social:
@@ -17,4 +17,4 @@ education:
  - Education
 ---
 
-<!--Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.-->
+I am a postdoctoral fellow at [BCAM](https://www.bcamath.org/en) working under supervision of Miguel Aguilera. My research interest lies in studying nonlinear phenomena arising in applications in such fields as biophysics, neuroscience and machine learning. The main results of my research concern emergence of chaotic and hyperchatic regimes and bifurcation chains leading to their appearance. I also study appearance and deustruction of synchronization in models of nonlinear oscillators. I am currently working on dynamics of mean fields, describing macroscopic activity patterns in Hopfield networks.[
