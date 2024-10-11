@@ -8,7 +8,7 @@ permalink: 'team/ivan-garashchuk'
 social:
     twitter:
     linkedin:
-    google-scholar:
+    google-scholar: https://scholar.google.com/citations?user=BX_icloAAAAJ&hl=en
     github:
     website:
     orcid: https://www.orcid.org/0000-0002-3936-670X
