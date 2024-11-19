@@ -4,7 +4,7 @@ category: researcher
 title: Gabriel Malku Guzmán Schiller
 image: gabrielg.jpeg
 role: PhD Candidate
-permalink: 'team/raul-coterillo'
+permalink: 'team/gabriel-guzman'
 social:
     twitter: 
     linkedin:
