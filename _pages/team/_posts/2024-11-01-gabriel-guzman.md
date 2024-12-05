@@ -1,7 +1,7 @@
 ---
 layout: member
 category: researcher
-title: Gabriel Malku Guzmán Schiller
+title: Gabriel Guzmán Schiller
 image: gabrielg.jpg
 role: PhD Candidate
 permalink: 'team/gabriel-guzman'
