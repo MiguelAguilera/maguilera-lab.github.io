@@ -19,10 +19,10 @@ We are interested in the nonequilibrium dynamics of neural systems, which operat
 [![DOI](https://img.shields.io/badge/DOI-10.1038/s41467--023--39107--y-lightgreen.svg)](https://doi.org/10.1038/s41467-023-39107-y)
 
 
-1. **Aguilera** M , Ito S & Kolchinsky A (2025). [Inferring entropy production in many-body systems using nonequilibrium MaxEnt](https://arxiv.org/abs/2505.10444). _arXiv preprint_.\
+* **Aguilera** M , Ito S & Kolchinsky A (2025). [Inferring entropy production in many-body systems using nonequilibrium MaxEnt](https://arxiv.org/abs/2505.10444). _arXiv preprint_.\
 [![DOI](https://img.shields.io/badge/DOI-10.48550/arXiv.2505.10444--y-lightgreen.svg)](https://doi.org/10.48550/arXiv.2505.10444)
 
-1. **Aguilera** M, Morales PA, Rosas, FE, M & Shimazaki, H (2023). [Explosive neural networks via higher-order interactions in curved statistical manifolds](https://arxiv.org/abs/2408.02326). _arXiv preprint_.\
+* **Aguilera** M, Morales PA, Rosas, FE, M & Shimazaki, H (2023). [Explosive neural networks via higher-order interactions in curved statistical manifolds](https://arxiv.org/abs/2408.02326). _arXiv preprint_.\
 [![DOI](https://img.shields.io/badge/DOI-10.48550/arXiv.2408.02326--y-lightgreen.svg)](https://doi.org/10.48550/arXiv.2408.02326)
 
 ### Statistical Physics of Transformer Neural networks
