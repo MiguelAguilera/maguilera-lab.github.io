@@ -34,6 +34,9 @@ We exploit methods from nonequilibrium statistical physics and the disordered ph
 * **Poc-López** A & **Aguilera** M (2024). [Dynamical Mean-Field Theory of Self-Attention Neural Networks](https://arxiv.org/abs/2406.07247). _arXiv preprint_.\
 [![DOI](https://img.shields.io/badge/DOI-10.48550/arXiv.2406.07247--y-lightgreen.svg)](https://doi.org/10.48550/arXiv.2406.07247)
 
+1. **Aguilera** M, Morales PA, Rosas FE & Shimazaki H (2025). [Nonequilibrium thermodynamics of the asymmetric Sherrington-Kirkpatrick model](https://www.nature.com/articles/s41467-025-61475-w). _Nature Communications_ **16**, 6511.  \
+[![DOI](https://img.shields.io/badge/DOI-10.1038/s41467--025--61475--w-lightgreen.svg)](https://doi.org/10.1038/s41467-025-61475-w)
+
 ### Stochastic Thermodynamics of Autonomous Agents
 
 <img class="img-fluid" src="https://lab.maguilera.net/images/research/information-engine.png" style="padding-left: 20px; max-width: 240px" alt="information engine agent stochastic thermodynamics" align="right" />
