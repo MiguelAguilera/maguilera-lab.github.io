@@ -18,9 +18,8 @@ We are interested in the nonequilibrium dynamics of neural systems, which operat
 * **Aguilera** M, Igarashi, M & Shimazaki, H (2023). [Nonequilibrium thermodynamics of the asymmetric Sherrington-Kirkpatrick model](https://www.nature.com/articles/s41467-023-39107-y). _Nature Communications_ **14**, 3685.\
 [![DOI](https://img.shields.io/badge/DOI-10.1038/s41467--023--39107--y-lightgreen.svg)](https://doi.org/10.1038/s41467-023-39107-y)
 
-
-* **Aguilera** M, Ito S & Kolchinsky A (2025). [Inferring entropy production in many-body systems using nonequilibrium MaxEnt](https://arxiv.org/abs/2505.10444). _arXiv preprint_.\
-[![DOI](https://img.shields.io/badge/DOI-10.48550/arXiv.2505.10444--y-lightgreen.svg)](https://doi.org/10.48550/arXiv.2505.10444)
+* **Aguilera** M, Ito S & Kolchinsky A (2026). [Inferring Entropy Production in Many-Body Systems Using Nonequilibrium Maximum Entropy](https://journals.aps.org/prl/pdf/10.1103/xgkj-dxzh). _Physical Review Letters_ **136**, 077101.  \
+[![DOI](https://img.shields.io/badge/DOI-10.1103/xgkj--dxzh-lightgreen.svg)](DOI: https://doi.org/10.1103/xgkj-dxzh)
 
 * **Aguilera** M, Morales PA, Rosas, FE, M & Shimazaki, H (2023). [Explosive neural networks via higher-order interactions in curved statistical manifolds](https://arxiv.org/abs/2408.02326). _arXiv preprint_.\
 [![DOI](https://img.shields.io/badge/DOI-10.48550/arXiv.2408.02326--y-lightgreen.svg)](https://doi.org/10.48550/arXiv.2408.02326)

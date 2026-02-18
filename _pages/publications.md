@@ -8,8 +8,8 @@ permalink: /publications/
 
 ## Recent preprints
 
-1. **Aguilera** M, Ito S & Kolchinsky A (2025). [Inferring entropy production in many-body systems using nonequilibrium MaxEnt](https://arxiv.org/abs/2505.10444). _arXiv preprint_.\
-[![DOI](https://img.shields.io/badge/DOI-10.48550/arXiv.2505.10444--y-lightgreen.svg)](https://doi.org/10.48550/arXiv.2505.10444)
+1. **Aguilera** M, Ito S & Kolchinsky A (2026). [Inferring Entropy Production in Many-Body Systems Using Nonequilibrium Maximum Entropy](https://journals.aps.org/prl/pdf/10.1103/xgkj-dxzh). _Physical Review Letters_ **136**, 077101.  \
+[![DOI](https://img.shields.io/badge/DOI-10.1103/xgkj--dxzh-lightgreen.svg)](DOI: https://doi.org/10.1103/xgkj-dxzh)
 
 1. **Poc-López** A & **Aguilera** M (2024). [Dynamical Mean-Field Theory of Self-Attention Neural Networks](https://arxiv.org/abs/2406.07247). _arXiv preprint_.\
 [![DOI](https://img.shields.io/badge/DOI-10.48550/arXiv.2406.07247--y-lightgreen.svg)](https://doi.org/10.48550/arXiv.2406.07247)
