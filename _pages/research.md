@@ -21,8 +21,6 @@ We are interested in the nonequilibrium dynamics of neural systems, which operat
 * **Aguilera** M, Ito S & Kolchinsky A (2026). [Inferring Entropy Production in Many-Body Systems Using Nonequilibrium Maximum Entropy](https://journals.aps.org/prl/pdf/10.1103/xgkj-dxzh). _Physical Review Letters_ **136**, 077101.  \
 [![DOI](https://img.shields.io/badge/DOI-10.1103/xgkj--dxzh-lightgreen.svg)](DOI: https://doi.org/10.1103/xgkj-dxzh)
 
-* **Aguilera** M, Morales PA, Rosas, FE, M & Shimazaki, H (2023). [Explosive neural networks via higher-order interactions in curved statistical manifolds](https://arxiv.org/abs/2408.02326). _arXiv preprint_.\
-[![DOI](https://img.shields.io/badge/DOI-10.48550/arXiv.2408.02326--y-lightgreen.svg)](https://doi.org/10.48550/arXiv.2408.02326)
 
 ### Statistical Physics of Transformer Neural networks
 
