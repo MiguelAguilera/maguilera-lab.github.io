@@ -17,7 +17,7 @@ education:
  - Education
 ---
 
-I am a PhD student at the [Basque Center for Aplied Mathematics(BCAM)](https://www.bcamath.org/) under the supervision of [Miguel Aguilera](https://maguilera.net/). I hold a BSc in Physics and an MSc in Computational Chemisttry, both from the [University of Cantabria (UC)](https://web.unican.es/centros/ciencias). 
+I am a PhD student at the [Basque Center for Applied Mathematics (BCAM)](https://www.bcamath.org/) under the supervision of [Miguel Aguilera](https://maguilera.net/). I hold a BSc in Physics and an MSc in Computational Chemistry, both from the [University of Cantabria (UC)](https://web.unican.es/centros/ciencias). 
 
 For my [bachelor's thesis](https://repositorio.unican.es/xmlui/handle/10902/21070) I collaborated with the UC's [Condensed Matter Group](https://web.unican.es/departamentos/citimac), focusing on the simulation of phase transitions in ferroelectric materials such as strontium titanate (SrTiO3). On the other hand, my master's thesis involved working with the [Biochemical Engineering Department](https://web.unican.es/departamentos/ingquimica), performing [DFT](https://en.wikipedia.org/wiki/Density_functional_theory) simulations to assess the viability of organic extractants regarding the extraction of lithium from seawater desalination brines. Our findings were published in [this journal](https://www.sciencedirect.com/science/article/pii/S001191642200159X).
 
